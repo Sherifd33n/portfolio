@@ -467,6 +467,18 @@ h2 {
   padding: 7px 15px;
 }
 
+.git-links{
+display:flex;
+gap:20px;}
+
+.git-links a .git{
+color: var(--primary);
+background: white;}
+
+.git-links a .git:hover{
+background: var(--primary);
+color:white;}
+
 /* ----------------  ------------- */
 
 .contact-section {
