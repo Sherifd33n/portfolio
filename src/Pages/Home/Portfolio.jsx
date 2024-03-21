@@ -28,9 +28,17 @@ export default function MyPortfolio() {
               <div>
                 <h3 className="portfolio-section-title">{item.title}</h3>
               </div>{" "}
-              <a href={item.link} className="text-sm portfolio-link">
+
+<div className="git-links">
+ <a href={item.link} className="text-sm portfolio-link">
                 <button className="btn btn-github">See Demo</button>{" "}
               </a>
+
+ <a href={item.link2} className="text-sm portfolio-link git">
+                <button className="btn btn-github">GitHub Link</button>{" "}
+              </a>
+</div>
+             
             </div>
           </div>
         ))}
