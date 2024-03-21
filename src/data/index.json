@@ -1,0 +1,84 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/bxl-html5.svg",
+      "title": "HTML",
+      "description": "Hypertext Markup Language that is used to create the structure of web pages"
+    },
+    {
+      "id": "2",
+      "src": "./img/bxl-css3.svg",
+      "title": "CSS",
+      "description": "Cascading Style Sheets is used to control the presentation and layouts of web document"
+    },
+    {
+      "id": "3",
+      "src": "./img/bxl-javascript.svg",
+      "title": "JavaScript",
+      "description": "JavaScript is used to add interaction, functions and dynamic behavior to web pages"
+    },
+    {
+      "id": "4",
+      "src": "./img/bxl-react.svg",
+      "title": "React",
+      "description": "React is a javaScript library use to build user interfaces and creating dynamic and interactive web applications"
+    },
+    {
+      "id": "5",
+      "src": "./img/bxl-tailwind-css.svg",
+      "title": "Tailwind CSS",
+      "description": "Tailwind is a CSS framework which allows the writing of CSS styles directly into the HTML document"
+    },
+    {
+      "id": "6",
+      "src": "./img/bxl-sass.svg",
+      "title": "SaSS",
+      "description": "SaSS is a scripting language that extends CSS and add more features like variables, nexting, and more"
+    },
+    {
+      "id": "7",
+      "src": "./img/bx-code-alt.svg",
+      "title": "Responsiveness",
+      "description": "Responsiveness id the ability of website to adapt to different screen sizes including desktops, laptops, tablets and smartphones"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/gym.jpg",
+      "title": "Gym Website",
+      "link": "https://gym-website-nine-ruddy.vercel.app/"
+    },
+    {
+      "id": "2",
+      "src": "./img/hospital.jpg",
+      "title": "Hospital Website Landing Page",
+      "link": "https://hospital-landing-page-wheat.vercel.app/"
+    },
+    {
+      "id": "3",
+      "src": "./img/coffee.jpg",
+      "title": "Coffee Website Landing Page",
+      "link": "https://coffee-website-kappa.vercel.app/"
+    },
+    {
+      "id": "4",
+      "src": "./img/manage.jpg",
+      "title": "Manage Landing Page",
+      "link": "https://manage-landing-page-puce.vercel.app/"
+    },
+    {
+      "id": "5",
+      "src": "./img/form.jpg",
+      "title": "Form Validation",
+      "link": "https://form-validation-iota-five.vercel.app/"
+    },
+    {
+      "id": "6",
+      "src": "./img/shopify.jpg",
+      "title": "Shopify Landing Page",
+      "link": "https://e-commerce-jackets-website.vercel.app/"
+    }
+  ]
+}
