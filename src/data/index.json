@@ -51,40 +51,41 @@
       "link": "https://gym-website-nine-ruddy.vercel.app/",
 "link2":"https://gitHub.com/Sherifd33n/Gym-Website"
     },
+    ,
     {
       "id": "2",
+      "src": "./img/Shop - Google Chrome 12_05_2024 01_31_29.png",
+      "title": "E-Commerce Website",
+      "link": "https://e-commerce-website-navy-beta.vercel.app/",
+"link2":"https://gitHub.com/Sherifd33n/E-Commerce-website"
+    }
+    {
+      "id": "3",
       "src": "./img/hospital.jpg",
       "title": "Hospital Website Landing Page",
       "link": "https://hospital-landing-page-wheat.vercel.app/",
 "link2":"https://gitHub.com/Sherifd33n/Hospital-Landing-Page"
     },
     {
-      "id": "3",
+      "id": "4",
       "src": "./img/coffee.jpg",
       "title": "Coffee Website Landing Page",
       "link": "https://coffee-website-kappa.vercel.app/",
 "link2":"https://gitHub.com/Sherifd33n/Coffee-Website"
     },
     {
-      "id": "4",
+      "id": "5",
       "src": "./img/manage.jpg",
       "title": "Manage Landing Page",
       "link": "https://manage-landing-page-puce.vercel.app/",
 "link2":"https://gitHub.com/Sherifd33n/Manage-landing-page"
     },
     {
-      "id": "5",
+      "id": "6",
       "src": "./img/form.jpg",
       "title": "Form Validation",
       "link": "https://form-validation-iota-five.vercel.app/",
 "link2":"https://gitHub.com/Sherifd33n/Form-Validation"
-    },
-    {
-      "id": "6",
-      "src": "./img/shopify.jpg",
-      "title": "Shopify Landing Page",
-      "link": "https://e-commerce-jackets-website.vercel.app/",
-"link2":"https://gitHub.com/Sherifd33n/E-commerce-Jackets-Website"
     }
   ]
 }
